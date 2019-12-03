@@ -44,7 +44,7 @@
 }
 
 .avatar {
-  background-image: url('../images/badger_avatar.png');
+  background-image: url('./images/badger_avatar.png');
   background-size: cover;
   height: 50px;
   width: 50px;
